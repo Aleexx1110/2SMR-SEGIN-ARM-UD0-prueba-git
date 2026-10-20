@@ -1,3 +1,3 @@
 # Hobbies de Alex
 
-## Hobbies de verano
+## Hobbies de veranos
