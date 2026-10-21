@@ -1,7 +1,5 @@
 # Hobbies de Alex
 
-## Hobbies de veranos
+## Hobbies de verano
 
 Alex Ruiz Mesa
-
-Lo siguiente que veremos es como dar un repositorio en github
